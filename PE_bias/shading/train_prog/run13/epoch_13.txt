@@ -1,0 +1,2 @@
+batch class_loss class_acc conf_correct conf_incorrect\n0 -0.0000 34.38 52.91 51.17
+10 -0.0000 26.56 52.75 51.25
